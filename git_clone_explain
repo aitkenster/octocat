@@ -1,1 +1,2 @@
 Explain what git clone does, in your own words.
+git clone creates a copy of the repository at the specified url onto your local computer.
