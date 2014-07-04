@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words.
+a branch is an internal copy of the repository that can be changed without changing the repository it was branched off. The branch and the original repository can be merged together at any point.
